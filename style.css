@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h3 {
+  text-align: justify;
+  color: #313B72;
+}
+a{
+  color:#16324F;
+}
+h1{
+  color: #18435A;
+}
+.carousel-item,
+.carousel-inner,
+.carousel-inner img {
+  width: 100%;
+  height: auto;
+}
+
+.carousel-item {
+  text-align: center;
+}
+.carousel {
+  height: 200px;
+  width: 700px;
+}
+
+h2{
+  color: #3E92CC;
+}
